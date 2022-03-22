@@ -12,5 +12,5 @@ As a result we have 2 csv-files (for train and valid data) - with name of the im
 
 csv-file of train_data:
 ![train_result](additional/train_csv_result.png)
-csv_file of valid_data:
+csv-file of valid_data:
 ![valid_result](additional/valid_csv_result.png)
