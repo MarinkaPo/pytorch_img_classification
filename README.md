@@ -4,7 +4,7 @@ Classification of 3000 images (with markup json-file) using python, pytorch and 
 # Project description
 Using python and dataset from this [link](https://drive.google.com/drive/folders/1wHOf6eGv2esYtqFbBuGW9eigoZhRDmMZ?usp=sharing), build and train a model:
 * that identifies **cars** and **plants**, among the proposed images, 
-* and displays a list of files in each category with the probability of a match.
+* and displays a list of files in each category with the probability of the match.
 # Process
 All process of work is fully described in Сила_Света_PyTorch.ipynb
 # Result
