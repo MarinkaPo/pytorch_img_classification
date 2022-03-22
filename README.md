@@ -9,6 +9,7 @@ Using python and dataset from this [link](https://drive.google.com/drive/folders
 All process of work is fully described in Сила_Света_PyTorch.ipynb
 # Result
 As a result we have 2 csv-files (for train and valid data) - with name of the image, its location (folder), definition to a class and probability of that:
+
 csv-file of train_data:
 ![train_result](additional/train_csv_result.png)
 csv_file of valid_data:
